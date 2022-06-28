@@ -18,8 +18,8 @@ An old school project that I later refactored to use React. It is a simple movie
 
 This site takes location data from the browser (or just some default data for those privacy-minded individuals who instinctually hit deny on the location access request pop-up) to get a live collection of photos uploaded within the users geographical area.
 
-## ~~Newgrounds Scraper~~ (IN PROGRESS/SECRET)
-~~link to repo~~ | ~~link to site~~
+## Newgrounds Scraper
+[link to repo](https://github.com/kemptosa/newgrounds-scraper)
 
 The Newgrounds site has no sensible way to get post data programmatically. Time to change that.
 
